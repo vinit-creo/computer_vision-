@@ -5,7 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
-
+computer-vision/
 # Distribution / packaging
 .Python
 build/
